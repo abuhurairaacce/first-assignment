@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+}
+.first-sec{
+    background-image: url('images/banner/banner3.png');
+    width: auto;
+    height: 810px;
+
+}
+.fs-div{
+    text-align: right;
+    padding-top: 250px;
+    padding-right: 100px;
+}
+.fs-title{
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 55px;
+    color: white;
+    font-weight: 900;
+    margin-bottom: 30px;
+   
+    
+}
+.description{
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+.btn{
+   margin-top: 25px;
+   padding: 10px 20px;
+   color: rgb(2, 85, 85);
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 900;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+}
+/* Second Section */
+
+.second-sec{
+    display: flex;
+    width: auto;
+  
+    
+
+}
+.ss-div{
+    margin-top: 100px;
+    width: 350px;
+    padding: 150px;
+    
+}
+.ss-right-div{
+    padding-top: 250px;
+  
+   
+}
+.ss-div-head{
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.ss-des{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+.ss-div-ul{ 
+    margin-top: 30px;
+}
+.ss-div-ul li{
+    list-style: lower-roman;
+    font-family: cursive;
+}
+
+/* Third section  */
+.third-sec{
+    
+    
+    
+
+}
+.ts-plan{
+    text-align: center;
+    font-family: 'Chau Philomene One', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    
+}
+.ts-div-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    gap: 80px;
+
+
+}
+.ts-head{
+     font-family: sans-serif;
+     font-size: 20px;
+     font-weight: 800;
+}
+.fs-description{
+    color: darkgrey;
+    font-size: 15px;
+    font-family: monospace;
+}
+/* 4th sec start */
+
+
+.fr-sec{
+    height: 230px;
+    background-repeat: no-repeat;
+    background-size: 1000px 230px;
+    background-position: center;
+    width: 900px;
+    margin: auto;
+    border-radius: 10px;
+  background: linear-gradient(#47421a94,#1a3a47),url('images/watch.png');
+}
+.fr-sec-div{
+    
+    padding-top: 50px;
+    padding-left: 90px;
+}
+.fr-sec-div h1{
+    color: white;
+    font-family:sans-serif ;
+}
+
+/* Footer Section */
+
+.footer{
+    background-color: black;
+    display: flex;
+    margin-top: 100px;
+    height: 500px;
+    
+    
+    
+}
+.footer-div{
+    width: 300px;
+   
+    margin: auto;
+    height: 400px;
+}
+
+/* Right Side of Footer */
+.footer-header{
+    font-family: cursive;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.mail-but{
+    margin-bottom: 10px;
+    height: 50px;
+    width: 250px;
+    border: 3px solid white;
+    border-radius: 7px;
+    text-align: left;
+    font-family: cursive;
+    color: white;
+    background-color: black;
+}
+.subscribe-but{
+   padding: 10px 20px;
+   color: rgb(2, 85, 85);
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   font-size: 15px;
+   border-radius: 10px;
+   border: 1px solid white;
+   color: white;
+   background-color: black;
+
+}
+/* Left side of footer */
+.footer-des{
+    font-family: cursive;
+    margin-bottom: 15px;
+    color: white;
+}
+.mail{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+
+    
+}
+.phone{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    color: white;
+    font-family: cursive;
+}
+
+
+
